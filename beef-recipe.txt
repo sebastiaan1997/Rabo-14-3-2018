@@ -1,0 +1,9 @@
+recipe for beef
+
+ingradeients 
+-beef
+-butter
+-salt
+-pepper
+
+Cook the beef
